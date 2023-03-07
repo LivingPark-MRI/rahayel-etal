@@ -8,4 +8,4 @@ jupyter
 numpy
 boutiques
 livingpark_utils
-
+rich

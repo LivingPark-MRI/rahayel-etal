@@ -1,0 +1,13 @@
+nibabel
+nilearn
+matplotlib
+pandas
+ppmi_downloader
+datalad
+jupyter
+numpy
+boutiques
+livingpark_utils
+rich
+paramiko
+scp
